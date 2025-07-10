@@ -84,6 +84,19 @@
     "lzcaiji": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "量子资源站"
-    }
+    },
+    "qiqi": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod",
+      "name": "七七资源"
+    },
+    "lziapi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "影视工厂"
+    },
+    "jyzy": {
+      "api": "https://jyzyapi.com/provide/vod/",
+      "name": "金鹰资源站"
+    }  
+
   }
 }
